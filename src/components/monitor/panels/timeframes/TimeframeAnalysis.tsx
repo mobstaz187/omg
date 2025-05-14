@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useTimeframeAnalysis } from '../../../../hooks/useTimeframeAnalysis';
-import { TimeframeSelector } from './TimeframeSelector';
+import { TimeframeSelector } from './timeframes/TimeframeSelector';
 import { TimeframeMetrics } from './TimeframeMetrics';
 import { TimeframeActivity } from './TimeframeActivity';
 import { TimeframeTrades } from './TimeframeTrades';
