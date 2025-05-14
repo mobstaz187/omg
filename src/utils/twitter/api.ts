@@ -1,4 +1,4 @@
-import { TWITTER_CONFIG } from './config';
+
 
 interface TwitterMetrics {
   symbol: string;
